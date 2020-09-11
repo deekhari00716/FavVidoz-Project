@@ -26,7 +26,7 @@ SECRET_KEY = '8&nmos4pnw%eaiznej=1zqt_m6jxhy6(=rf3ov*!i276w^zyn9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['nameless-caverns-12771.herokuapp.com/', 'favvidz.com', 'www.favvidz.com',]
+ALLOWED_HOSTS = ['nameless-caverns-12771.herokuapp.com', 'favvidz.com', 'www.favvidz.com']
 
 LOGIN_URL = 'login'
 LOGIN_REDIRECT_URL = 'home'
